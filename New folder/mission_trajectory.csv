@@ -1,0 +1,2 @@
+departure,arrival,tof_days,C3_km2s2,dep_dv_kms,arr_dv_kms,total_dv_kms,optimizer,ephemeris
+2027-06-12,2028-02-04,237.3529411764706,6.37423927542615,3.510148427082773,3.491782021169299,7.001930448252072,grid,Keplerian
