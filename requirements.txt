@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+astropy
+sgp4
+requests
+pytest
+# optional: spiceypy (only if you pass --kernel de440s.bsp to Phase 4)
